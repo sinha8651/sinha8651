@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-java developer
+Java Developer
 
 
 # 💻 Tech Stack:
