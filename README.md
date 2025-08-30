@@ -17,7 +17,7 @@
 ---
 
 ## 💫 About Me
-- 🔭 Currently working on **Java & SpringBoot Framework**  
+- 🔭 Currently working on **Java & Spring Framework**  
 - 🌱 Exploring more on **Spring Framework**  
 - 👯 Open to collaborate on **Java & Spring projects**  
 - ⚡ Fun fact: *I turn ☕ into clean code*  
