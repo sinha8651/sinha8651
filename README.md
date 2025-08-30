@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Java Developer from India</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rahul-kumar-sinha-30747821b/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-kumar-sinha-30747821b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rahulsinha8405@gmail.com">
